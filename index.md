@@ -1,3 +1,4 @@
 ## Aveesh Kachroo's first CS193 Lab
-`` markdown
--Lectures
+- Lectures
+- Club information
+- Useful labs
